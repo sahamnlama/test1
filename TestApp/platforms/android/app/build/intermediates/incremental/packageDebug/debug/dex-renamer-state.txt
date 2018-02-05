@@ -1,0 +1,4 @@
+#Mon Feb 05 13:26:29 IST 2018
+base.0=C\:\\Users\\stl.ppt\\Desktop\\Test\\TestApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\stl.ppt\\Desktop\\Test\\TestApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
